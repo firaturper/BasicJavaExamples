@@ -1,3 +1,4 @@
+// This code checks for prime, odd or even numbers
 import java.util.Scanner;
 
 public class Main {
