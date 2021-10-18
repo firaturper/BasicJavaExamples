@@ -1,3 +1,4 @@
+// This code shows all upper and lower case letters in the alphabet.
 public class Main {
 
     public static void main(String[] args) {
