@@ -1,3 +1,4 @@
+//This code finds the sum and factorial value of a number.
 import java.util.Scanner;
 
 public class Main {
